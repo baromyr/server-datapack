@@ -1,0 +1,15 @@
+{
+    "replace": false,
+    "values": [
+        "modern_industrialization:bronze_gear",
+        "modern_industrialization:gold_gear",
+        "modern_industrialization:iron_gear",
+        "modern_industrialization:copper_gear",
+        "modern_industrialization:tin_gear",
+        "modern_industrialization:steel_gear",
+        "modern_industrialization:aluminum_gear",
+        "modern_industrialization:invar_gear",
+        "modern_industrialization:titanium_gear",
+        "modern_industrialization:stainless_steel_gear"
+    ]
+}

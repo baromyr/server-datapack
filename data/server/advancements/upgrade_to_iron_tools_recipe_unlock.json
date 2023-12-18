@@ -1,0 +1,24 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "tag": "minecraft:iron_ingot"
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipes": [
+      "server:stone_to_iron_tools/iron_axe_from_stone_axe",
+      "server:stone_to_iron_tools/iron_pickaxe_from_stone_pickaxe",
+      "server:stone_to_iron_tools/iron_hoe_from_stone_hoe",
+      "server:stone_to_iron_tools/iron_shovel_from_stone_shovel",
+      "server:stone_to_iron_tools/iron_sword_from_stone_sword"
+    ]
+  }
+}

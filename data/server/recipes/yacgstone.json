@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "IDI",
+    "WPL",
+    "IHI"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:water_bucket"
+    },
+    "P": {
+      "item": "minecraft:polished_diorite"
+    },
+    "L": {
+      "item": "minecraft:lava_bucket"
+    },
+    "H": {
+      "item": "minecraft:hopper"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "D": {
+      "item": "minecraft:deepslate"
+    }
+  },
+  "result": {
+    "item": "yacg:stone",
+    "count": 1
+  }
+}
